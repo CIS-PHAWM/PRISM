@@ -1,5 +1,23 @@
 # PRISM
-Preference Revelation through Indirect Stimulus Methodology: A Flexible Methodology for Auditing Biases in Large Language Models
+Preference Revelation through Indirect Stimulus Methodology (PRISM) is a flexible approach for auditing biases in Large Language Models (LLMs).
+
+![The PRISM](./data/methodology.png)
+
+See how we used PRISM in our paper [POW: Political Overton Windows of Large Language Models](https://github.com/CIS-PHAWM/POW).
+
+## Citation
+```
+@article{azzopardi2024prismmethodologyauditingbiases,
+      title={PRISM: A Methodology for Auditing Biases in Large Language Models}, 
+      author={Leif Azzopardi and Yashar Moshfeghi},
+      year={2024},
+      eprint={2410.18906},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.18906}, 
+}
+
+```
 
 ## Installing
 - Instal python 3.11.8+
